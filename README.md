@@ -123,4 +123,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <h3>Author</h3>
 
-Oshioregbeme Collins Inaboya [GitHub](https://GitHub.com/collins-orian) | [Email](inaboyacollins@gmail.com) <br>
+Oshioregbeme Collins Inaboya [GitHub](https://GitHub.com/collins-orian) | [Email](inaboyacollins@icloud.com) <br>
